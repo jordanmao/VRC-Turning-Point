@@ -1,5 +1,5 @@
 # VRC-Turning-Point
-Robot source code for VEX Robotics Competition (VRC) 2018-2019 Turning Point Challenge.
+Team 2828J robot source code for VEX Robotics Competition (VRC) 2018-2019 Turning Point Challenge.
 
 <img src="https://github.com/jordanmao/VRC-Turning-Point/blob/main/robot.JPG">
 
