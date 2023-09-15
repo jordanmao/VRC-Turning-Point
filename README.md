@@ -12,3 +12,5 @@ Robot Objectives:
 Video Demonstrations can be found here:
 - Driver Skills Challenge: https://youtu.be/oY5VtXKGFvM
 - Autonomous Challenge: https://youtu.be/LNwuhKzrfi4
+
+Pictures of the 4 iterations of robot build processes can be found here: https://drive.google.com/drive/folders/1lFs4Ppfv1B8qCC6WFRi1Z7-SDfffVabD
